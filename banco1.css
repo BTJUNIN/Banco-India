@@ -1,5 +1,5 @@
 body {
-    background-image: url(/walpaperrr.jpg);
+    background-image: url(walpaperrr.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     
@@ -57,7 +57,7 @@ input[type="submit"] {
 }
 
 .formulario {
-    background-image: url(/mina-rad-qFSQFSmfZkA-unsplash.jpg);
+    background-image: url(mina-rad-qFSQFSmfZkA-unsplash.jpg);
     
     width: 30%;
     height: 80vh;
